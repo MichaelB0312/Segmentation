@@ -6,4 +6,4 @@ Segmentation with Deep Lab, Creating video of different Segmented parts.
 
 open `part3.ipynb` to see the code
 
-![boxing](https://github.com/MichaelB0312/Segmentation/edit/main/README.md)
+![boxing](https://github.com/MichaelB0312/Segmentation/blob/main/ezgif.com-video-to-gif.gif)
